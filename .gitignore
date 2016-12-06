@@ -1,0 +1,11 @@
+/bin/*
+/node_modules/*
+/obj/*
+/Properties/*
+/ApplicationInsights
+/bibarani
+/bibarani.csproj
+/README.md
+/web.xml
+/web.Debug.xml
+/web.Release.xml
